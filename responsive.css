@@ -1,0 +1,32 @@
+@media only screen and (max-width: 691px) {
+  .body {
+    max-width: 100%;
+    overflow: hidden;
+    padding: 0 0px;
+  }
+  .hero-section {
+    flex-direction: column;
+  }
+  .hero-sharce {
+    flex-direction: column;
+  }
+  .about-section {
+    flex-direction: column;
+  }
+  .count-wrapper {
+    flex-direction: column;
+  }
+  .tour-contaiter {
+    flex-direction: column;
+  }
+  .Testimonials-section {
+    flex-direction: column;
+  }
+  .place-items {
+    flex-direction: column;
+    padding: 20px 0px;
+  }
+  .foter-items {
+    flex-direction: column;
+  }
+}
